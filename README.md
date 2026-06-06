@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-success)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A lightweight automation project that sends scheduled reminder messages to a Discord channel using **Python**, **Discord Webhooks**, and **GitHub Actions**.
 
